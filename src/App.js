@@ -35,13 +35,13 @@ class App extends Component {
     });
   };
   render() {
-    const style={
-      backgroundColor:'White',
-      font:'inherit',
-      border:'1px solid blue',
-      padding:'8px',
-      cursor:'pointer'
-    }
+    const style = {
+      backgroundColor: "White",
+      font: "inherit",
+      border: "1px solid blue",
+      padding: "8px",
+      cursor: "pointer"
+    };
     return (
       <div className="App">
         <h1>Hi,I am a React App.</h1>
